@@ -8,4 +8,4 @@ covid_deaths.xlsx: Covid-19 global reported cases.
 
 covid_vaccinations.xlsx: Covid-19 global reported vaccinations.
 
-The dataset was scapped from https://ourworldindata.org/covid-deaths
+The dataset was scrapped from https://ourworldindata.org/covid-deaths
